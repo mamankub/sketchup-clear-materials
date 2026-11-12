@@ -1,0 +1,9 @@
+# Build output — .rbz ไปแนบกับ GitHub Releases แทนการเก็บใน git
+dist/
+*.rbz
+
+# ไฟล์งาน SketchUp / ไฟล์ชั่วคราวของระบบ
+*.skp
+*.skb
+.DS_Store
+Thumbs.db
